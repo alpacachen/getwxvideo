@@ -12,4 +12,4 @@ cnpm i
 node index.js --url=https://mp.weixin.qq.com/s/MF3u8xVdj-C6IIn8eh4r4Q(你想抓的公众号链接)
 
 ###
-终端打印 video has download后视频就下载完了，在同级目录
+终端打印 video has download后视频就下载完了，在同级目录，名字叫video.mp4，想要继续抓就把下载好mp4移走，或者在代码里自己改一下输出文件的名字，不冲突就行
