@@ -5,5 +5,6 @@
 
 用法 
 cnpm i
+#命令行
 node index.js --url=https://mp.weixin.qq.com/s/MF3u8xVdj-C6IIn8eh4r4Q(你想抓的公众号链接)
 终端打印 video has download后视频就下载完了，在同级目录
