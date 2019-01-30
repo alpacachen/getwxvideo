@@ -12,6 +12,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "optimist": "^0.6.1",
+    "ora": "^3.0.0",
     "phantom": "^4.0.12",
     "puppeteer": "^1.2.0",
     "superagent": "^3.8.2"
